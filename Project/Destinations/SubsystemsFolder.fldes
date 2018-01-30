@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultDestination
+  Version="1"
+  Comment="Path to my subsystems folder"
+  Host=""
+  User="MyAccountId"
+  Password=""
+  Directory="C:\Users\mgatnersiemien\Documents\My Projects\Workshop_part_4\Output\mgatnersiemien\Master\Subsystems\Child1"
+  Port=""
+  ViewUrl="http://www.madcapsoftware.com/"
+  Type="file"></CatapultDestination>
